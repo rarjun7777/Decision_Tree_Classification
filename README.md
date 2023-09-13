@@ -14,6 +14,8 @@ Dataset : Social_Network_Ads
 
 -> Splitting the dataset into the Training set and Test set
 
+-> Feature Scaling
+
 -> Training the Decision Tree Classification model on the Training set
 
 -> Predicting a new result
